@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(/home/gabriel/lab-2-gabrielbustos-36480265/rapy/src/main/scala/models/DeliveryDistance.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(models.DeliveryDistance)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(models.DeliveryDistance)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from models.DeliveryDistance...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(models.DeliveryDistance)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(models.DeliveryDistance)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(models.DeliveryDistance,ModifiedNames(changes = UsedName(hashCode,[Default]), UsedName(wait,[Default]), UsedName(isInstanceOf,[Default]), UsedName(notify,[Default]), UsedName(coordBy,[Default]), UsedName(coordBx,[Default]), UsedName(asInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(finalize,[Default]), UsedName(coordAx,[Default]), UsedName(distance,[Default]), UsedName(models;DeliveryDistance;init;,[Default]), UsedName(!=,[Default]), UsedName(radio,[Default]), UsedName(coordAy,[Default]), UsedName(toString,[Default]), UsedName(isProvider,[Default]), UsedName(==,[Default]), UsedName(consumerUsername,[Default]), UsedName(notifyAll,[Default]), UsedName($asInstanceOf,[Default]), UsedName(ne,[Default]), UsedName($isInstanceOf,[Default]), UsedName(##,[Default]), UsedName(clone,[Default]), UsedName(DeliveryDistance,[Default]), UsedName(providerUsername,[Default]), UsedName(getClass,[Default]), UsedName(equals,[Default]), UsedName(eq,[Default]))) invalidates 1 classes due to The models.DeliveryDistance has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(hashCode,[Default]), UsedName(wait,[Default]), UsedName(isInstanceOf,[Default]), UsedName(notify,[Default]), UsedName(coordBy,[Default]), UsedName(coordBx,[Default]), UsedName(asInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(finalize,[Default]), UsedName(coordAx,[Default]), UsedName(distance,[Default]), UsedName(models;DeliveryDistance;init;,[Default]), UsedName(!=,[Default]), UsedName(radio,[Default]), UsedName(coordAy,[Default]), UsedName(toString,[Default]), UsedName(isProvider,[Default]), UsedName(==,[Default]), UsedName(consumerUsername,[Default]), UsedName(notifyAll,[Default]), UsedName($asInstanceOf,[Default]), UsedName(ne,[Default]), UsedName($isInstanceOf,[Default]), UsedName(##,[Default]), UsedName(clone,[Default]), UsedName(DeliveryDistance,[Default]), UsedName(providerUsername,[Default]), UsedName(getClass,[Default]), UsedName(equals,[Default]), UsedName(eq,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(models.DeliveryDistance)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m
